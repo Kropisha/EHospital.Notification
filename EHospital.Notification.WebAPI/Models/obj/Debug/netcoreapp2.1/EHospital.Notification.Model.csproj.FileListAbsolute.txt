@@ -1,0 +1,9 @@
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\bin\Debug\netcoreapp2.1\EHospital.Notification.Model.deps.json
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\bin\Debug\netcoreapp2.1\EHospital.Notification.Model.dll
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\bin\Debug\netcoreapp2.1\EHospital.Notification.Model.pdb
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.csprojAssemblyReference.cache
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.csproj.CoreCompileInputs.cache
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.AssemblyInfoInputs.cache
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.AssemblyInfo.cs
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.dll
+D:\Projects\EHospital.Notification\EHospital.Notification.WebAPI\Models\obj\Debug\netcoreapp2.1\EHospital.Notification.Model.pdb
